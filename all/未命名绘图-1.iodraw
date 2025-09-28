@@ -13,8 +13,8 @@
         <mxCell id="Idq9ORFewkf95p7VXMsz-3" value="输入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="302" y="250" width="236" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Idq9ORFewkf95p7VXMsz-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="360" width="230" height="60" as="geometry" />
+        <mxCell id="Idq9ORFewkf95p7VXMsz-4" value="计算总分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="299" y="360" width="230" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
