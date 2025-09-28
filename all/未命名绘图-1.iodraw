@@ -10,8 +10,8 @@
         <mxCell id="Idq9ORFewkf95p7VXMsz-2" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="350" y="600" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Idq9ORFewkf95p7VXMsz-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="Idq9ORFewkf95p7VXMsz-3" value="输入" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="250" width="236" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
