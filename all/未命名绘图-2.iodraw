@@ -28,8 +28,14 @@
         <mxCell id="NQC2MMPoI3tjrYqnEspL-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="165" y="450" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="NQC2MMPoI3tjrYqnEspL-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NQC2MMPoI3tjrYqnEspL-8" target="NQC2MMPoI3tjrYqnEspL-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NQC2MMPoI3tjrYqnEspL-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="620" width="170" height="60" as="geometry" />
+          <mxGeometry x="175" y="610" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NQC2MMPoI3tjrYqnEspL-10" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+          <mxGeometry x="200" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
