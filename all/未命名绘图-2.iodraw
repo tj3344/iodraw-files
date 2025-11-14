@@ -72,16 +72,15 @@
         <mxCell id="NQC2MMPoI3tjrYqnEspL-17" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="790" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NQC2MMPoI3tjrYqnEspL-34" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+        <mxCell id="NQC2MMPoI3tjrYqnEspL-34" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="290" as="targetPoint" />
             <mxPoint x="610" y="880" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="960" y="600" />
-              <mxPoint x="830" y="880" />
-              <mxPoint x="1040" y="610" />
-              <mxPoint x="980" y="570" />
-            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NQC2MMPoI3tjrYqnEspL-37" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="NQC2MMPoI3tjrYqnEspL-34">
+          <mxGeometry x="-0.9963" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NQC2MMPoI3tjrYqnEspL-19" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
