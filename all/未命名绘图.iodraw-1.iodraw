@@ -198,6 +198,18 @@
         <mxCell id="ySPiv2uFhTaOvUL-N_o4-33" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun" vertex="1" parent="1">
           <mxGeometry x="680" y="380" width="100" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="ySPiv2uFhTaOvUL-N_o4-34" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document" vertex="1" parent="1">
+          <mxGeometry x="680" y="380" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ySPiv2uFhTaOvUL-N_o4-35" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
+          <mxGeometry x="680" y="400" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ySPiv2uFhTaOvUL-N_o4-36" value="" style="shape=sortShape;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ySPiv2uFhTaOvUL-N_o4-37" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
