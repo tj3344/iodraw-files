@@ -47,7 +47,7 @@
         <mxCell id="07TClZ5I9JnCKVEePjhy-8" value="输出买票" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="530" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="07TClZ5I9JnCKVEePjhy-10" value="" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="07TClZ5I9JnCKVEePjhy-10" value="结束" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="300" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="07TClZ5I9JnCKVEePjhy-13" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
