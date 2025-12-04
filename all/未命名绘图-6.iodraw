@@ -76,7 +76,7 @@
         <mxCell id="EJ1lK_IyFdooFy7mAPy7-19" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="300" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="EJ1lK_IyFdooFy7mAPy7-22" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="EJ1lK_IyFdooFy7mAPy7-22" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="460" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
