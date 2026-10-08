@@ -10,6 +10,9 @@
         <mxCell id="7QmJiEs1T1Jg_sYGYaX8-2" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=50;" vertex="1" parent="1">
           <mxGeometry x="309" y="170" width="210" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="7QmJiEs1T1Jg_sYGYaX8-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=50;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="210" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
