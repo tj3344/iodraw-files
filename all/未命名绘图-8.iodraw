@@ -26,7 +26,7 @@
           <mxGeometry x="354" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QmJiEs1T1Jg_sYGYaX8-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="345" y="560" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QmJiEs1T1Jg_sYGYaX8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="680" width="120" height="60" as="geometry" />
