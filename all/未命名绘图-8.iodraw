@@ -27,7 +27,7 @@
         <mxCell id="7QmJiEs1T1Jg_sYGYaX8-5" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="326" y="585" width="175" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7QmJiEs1T1Jg_sYGYaX8-6" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="7QmJiEs1T1Jg_sYGYaX8-6" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="354" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7QmJiEs1T1Jg_sYGYaX8-19" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7QmJiEs1T1Jg_sYGYaX8-16" target="7QmJiEs1T1Jg_sYGYaX8-18">
