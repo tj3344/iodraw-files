@@ -22,8 +22,14 @@
         <mxCell id="eTQEsSEJIiUSfCsPVgQe-4" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="290" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eTQEsSEJIiUSfCsPVgQe-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="eTQEsSEJIiUSfCsPVgQe-6" target="eTQEsSEJIiUSfCsPVgQe-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="eTQEsSEJIiUSfCsPVgQe-6" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="140" height="80" as="geometry" />
+          <mxGeometry x="335" y="420" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="eTQEsSEJIiUSfCsPVgQe-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="590" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
